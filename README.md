@@ -2,7 +2,7 @@
 
 This project was made as an exercise to familiarize myself with [React](https://reactjs.org/).
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Instructions
 

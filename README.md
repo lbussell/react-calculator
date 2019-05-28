@@ -6,4 +6,4 @@ This project was made as an exercise to familiarize myself with [React](https://
 
 ## Instructions
 
-Run `npm start` from the project directory and navigate to `localhost:3000`.
+Run `npm install` and then `npm start` from the project directory and navigate to `localhost:3000`.

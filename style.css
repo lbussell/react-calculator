@@ -1,0 +1,83 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.app {
+    height: 90vh; /* Magic here */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calculator {
+    width: max-content;
+    height: max-content;
+}
+
+.display-panel {
+    width: auto;
+    text-align: right;
+    margin: 8pt;
+    font-weight: lighter;
+}
+
+.primary-display {
+    font-size: 46pt;
+}
+
+.secondary-display {
+    height: 24pt;
+    font-size: 24pt;
+    color: #cccccc;
+}
+
+.key {
+    border: none;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    width: 40pt;
+    height: 40pt;
+    margin: 4pt;
+    -moz-transition: all .1s linear;
+    -o-transition: all .1s linear;
+    -webkit-transition: all .1s linear;
+}
+
+.nm-key {
+    background-color: #404040;
+    color: white;
+}
+
+.nm-key:hover {
+    background-color: #666666;
+}
+
+.op-key {
+    background-color: #e68a00;
+    color: white;
+}
+
+.op-key:hover {
+    background-color: #ffb84d;
+}
+
+.fn-key {
+    background-color: #b3b3b3;
+    color: black;
+}
+
+.fn-key:hover {
+    background-color: #d9d9d9;
+}
+
+.zero-key {
+    width: 88pt;
+    border-radius: 20pt;
+    text-align: left;
+    padding-left: 14pt
+}

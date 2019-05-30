@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "lbussell.github.io/calculator/static/js/main.9a506a17.chunk.js",
-    "main.js.map": "lbussell.github.io/calculator/static/js/main.9a506a17.chunk.js.map",
-    "runtime~main.js": "lbussell.github.io/calculator/static/js/runtime~main.9893576e.js",
-    "runtime~main.js.map": "lbussell.github.io/calculator/static/js/runtime~main.9893576e.js.map",
-    "static/js/2.d6a534e5.chunk.js": "lbussell.github.io/calculator/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "lbussell.github.io/calculator/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "lbussell.github.io/calculator/index.html",
-    "precache-manifest.d35540c887a57ccca899c680bf9eb03e.js": "lbussell.github.io/calculator/precache-manifest.d35540c887a57ccca899c680bf9eb03e.js",
-    "service-worker.js": "lbussell.github.io/calculator/service-worker.js"
+    "main.js": "lbussell.github.io/react-calculator/static/js/main.2bfb470b.chunk.js",
+    "main.js.map": "lbussell.github.io/react-calculator/static/js/main.2bfb470b.chunk.js.map",
+    "runtime~main.js": "lbussell.github.io/react-calculator/static/js/runtime~main.380e639e.js",
+    "runtime~main.js.map": "lbussell.github.io/react-calculator/static/js/runtime~main.380e639e.js.map",
+    "static/js/2.d6a534e5.chunk.js": "lbussell.github.io/react-calculator/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "lbussell.github.io/react-calculator/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "lbussell.github.io/react-calculator/index.html",
+    "precache-manifest.5d91f0e810edff155ef31fb74441c2b5.js": "lbussell.github.io/react-calculator/precache-manifest.5d91f0e810edff155ef31fb74441c2b5.js",
+    "service-worker.js": "lbussell.github.io/react-calculator/service-worker.js"
   }
 }
